@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bin / 휴랑
+# 휴랑
 
 **Aspiring Game Developer & AI System Architect**
 
@@ -52,11 +52,11 @@
 적극적인 AI 활용을 통해 개발 생산성을 극대화하고, 로컬 추론 환경을 구축하여 AI 에이전트 시스템을 연구합니다.
 
 - **Coding & Architecture:** `GPT Codex`를 활용한 코드 생성, 리팩토링 및 시스템 아키텍처 분석 고도화
-- **Cloud LLMs:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro 적극 활용
+- **Cloud LLMs:** GPT-5.5, Claude 4.7 Opus, Gemini 3.1 Pro 적극 활용
 - **Local LLMs (via Ollama):**
-  - `Gemma-2-9B` (지식 추출 및 논리 추론 최적화)
-  - `GPT-OSS-20B` 계열 모델 (오픈소스 모델 기반 로컬 테스트)
-- **Research Focus:** LLM 기반 게임 NPC 에이전트 설계, RAG를 활용한 게임 기획 보조 툴 제작
+  - `Gemma4-e4B` 문서정리, 번역 최적화
+  - `GPT-OSS-20B` 오픈소스 모델 기반 로컬 테스트
+- **Research Focus:** LLM 기반 에이전트 설계, RAG를 활용한 게임 기획 보조 툴 제작
 
 <br>
 
