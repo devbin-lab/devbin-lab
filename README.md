@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kim Sungbin (Bin / 휴랑)
+# Bin / 휴랑
 
 **Aspiring Game Developer & System Architect**
 
