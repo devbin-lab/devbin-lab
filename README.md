@@ -1,31 +1,58 @@
-# Hi there, I'm Bin (휴랑) 👋
+<div align="center">
 
-## 🎮 About Me
-- 🎓 **청강문화산업대학교(Chungkang College of Cultural Industries)** 게임전공 학생입니다.
-- 🕹️ **게임 개발자**를 목표로 하며, 유니티와 언리얼 엔진을 활용한 프로젝트를 진행하고 있습니다.
-- 💻 게임뿐만 아니라 웹, 앱, AI 등 다양한 기술의 융합에 관심이 많습니다.
-- 🛠️ 특히 **AI 에이전트 시스템**, **하네스 시스템**, **개발 도구 설계 및 최적화**를 깊이 있게 탐구합니다.
+# Kim Sungbin (Bin / 휴랑)
 
-## 💻 Tech Stack
+**Aspiring Game Developer & System Architect**
 
-### Game Engines
-- Unity
-- Unreal Engine
+<br>
 
-### Languages
-- C# (Unity)
-- C++ (Unreal)
-- Python
-- JavaScript
-- Dart
+<p>
+  청강문화산업대학교 게임전공 학생으로, 게임 엔진부터 웹, 앱, AI까지 경계 없는 개발을 추구합니다.<br>
+  단순한 콘텐츠 제작을 넘어 <b>AI 에이전트 시스템</b>과 <b>개발 파이프라인 최적화(도구 설계)</b>에 깊은 관심을 두고 있습니다.
+</p>
 
-### Frameworks & Libraries
-- React
-- Flutter
+</div>
 
-## 🎯 Current Focus
-- AI 에이전트 시스템을 게임 환경에 효율적으로 통합하는 방법 연구
-- 게임 개발 생산성을 높이는 전용 개발 도구 및 시스템 설계
+<br>
 
-## 📫 How to reach me
-- Email: devbin0318@gmail.com
+### 🛠️ Technical Arsenal
+
+<br>
+
+#### Game Engines
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0e1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+</p>
+
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+#### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+<br>
+
+### 🎯 Current Focus & Architecture
+
+- **Game-AI Integration:** 게임 환경 내 효율적인 AI 에이전트 시스템 통합 연구
+- **Harness System Design:** 테스트 자동화 및 안정성 검증을 위한 하네스 시스템 구축
+- **Dev Tools:** 게임 개발 생산성을 극대화하는 사내 도구(In-house tools) 기획 및 개발
+
+<br>
+
+---
+
+<div align="center">
+  <p><b>Contact & Connect</b></p>
+  <a href="mailto:devbin0318@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
