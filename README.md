@@ -2,7 +2,7 @@
 
 # Bin / 휴랑
 
-**Aspiring Game Developer & System Architect**
+**Aspiring Game Developer & AI System Architect**
 
 <br>
 
@@ -19,10 +19,12 @@
 
 <br>
 
-#### Game Engines
+#### Game Engines & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Unreal_Engine-0e1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
 #### Languages
@@ -34,11 +36,36 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-#### Frameworks & Libraries
+#### AI & LLM Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
+
+<br>
+
+### 🤖 AI Ecosystem & Inference Environment
+
+적극적인 AI 활용을 통해 개발 생산성을 높이고, 로컬 추론 환경을 구축하여 AI 에이전트 시스템을 연구합니다.
+
+- **Cloud LLMs:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro 적극 활용
+- **Local LLMs (via Ollama):**
+  - `Gemma-2-9B` (지식 추출 및 논리 추론 최적화)
+  - `GPT-OSS-20B` 계열 모델 (오픈소스 모델 기반 로컬 테스트)
+- **Research Focus:** LLM 기반 게임 NPC 에이전트 설계, RAG를 활용한 게임 기획 보조 툴 제작
+
+<br>
+
+### 🖥️ Infrastructure & Workstation
+
+효율적인 개발 파이프라인 구축과 안정적인 서비스 구동을 위해 역할을 분리한 두 대의 시스템을 운용 중입니다.
+
+- **Main Workstation (Game Dev & AI Inference)**
+  - `Intel Core Ultra 5 265KF` | `32GB RAM` | `RTX 5070 Ti`
+- **Home Server Node (Docker & Game Server Hosting)**
+  - `AMD Ryzen 5 5600X` | `64GB RAM` | `GTX 1650`
 
 <br>
 
