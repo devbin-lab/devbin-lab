@@ -39,6 +39,7 @@
 #### AI & LLM Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/GPT_Codex-0058A0?style=for-the-badge&logo=openai&logoColor=white" alt="GPT Codex" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
@@ -48,8 +49,9 @@
 
 ### 🤖 AI Ecosystem & Inference Environment
 
-적극적인 AI 활용을 통해 개발 생산성을 높이고, 로컬 추론 환경을 구축하여 AI 에이전트 시스템을 연구합니다.
+적극적인 AI 활용을 통해 개발 생산성을 극대화하고, 로컬 추론 환경을 구축하여 AI 에이전트 시스템을 연구합니다.
 
+- **Coding & Architecture:** `GPT Codex`를 활용한 코드 생성, 리팩토링 및 시스템 아키텍처 분석 고도화
 - **Cloud LLMs:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro 적극 활용
 - **Local LLMs (via Ollama):**
   - `Gemma-2-9B` (지식 추출 및 논리 추론 최적화)
