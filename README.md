@@ -4,7 +4,7 @@
 
 **Game Development · Local AI Agents · Developer Tools**
 
-청강문화산업대학교 게임전공에서 게임 개발을 공부하며, 개인용 환경에서 동작하는 AI 에이전트와 실용적인 개발 도구를 만듭니다.
+청강문화산업대학교 게임전공
 
 [Email](mailto:devbin0318@gmail.com) · [Aiso](https://github.com/devbin-lab/AISO) · [Projects](https://github.com/devbin-lab?tab=repositories)
 
